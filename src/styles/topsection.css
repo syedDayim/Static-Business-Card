@@ -1,0 +1,50 @@
+.image-holder{
+    height: 317px;
+    width: 317px;
+    background-image: url("../images/img.png");
+    background-position: center center;
+    background-size: 100% 100%;
+    
+
+
+}
+
+.top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1b21;
+}
+
+.sub-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1a1b21;
+}
+
+.sub-section > h1 {
+    padding-top: 10px;
+    color: white;
+    font-family: inter;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #1a1b21;
+}
+
+.sudo-para{
+    background-color: #1a1b21;
+    padding-top: 3px ;
+    font-family: inter;
+    padding-bottom: 8px;
+    color: #f3bf99;
+}
+
+
+.web-link{
+    background-color: #1a1b21;
+    color:white;
+    font-size: 10.24px;
+    font-family: inter;
+}
